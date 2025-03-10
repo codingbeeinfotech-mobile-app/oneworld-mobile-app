@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "758595258803",
+    "project_id": "verifynotification-e1da3",
+    "storage_bucket": "verifynotification-e1da3.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:758595258803:android:4bbdebf9ea527e416b23c6",
+        "android_client_info": {
+          "package_name": "com.oneworld.abhilaya"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCD1jbwPC6MelSkyy5d1g-A5GfoHJbwzXM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
